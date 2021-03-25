@@ -5,7 +5,7 @@ http://localhost:9999
 
 ### **Para verificar a tabela via terminal:**
 ```
-=# \d
+# \d
 ```
 ### **Acesse o Swagger em:** 
 http://localhost:9999/swagger-ui.html
